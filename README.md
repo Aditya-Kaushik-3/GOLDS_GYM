@@ -1,10 +1,10 @@
-# React Fitness Application
 
-![React Fitness Application](https://i.ibb.co/Yt9spGc/image.png)
 
 # Golds Gym App
 
 The Gym App is a web application designed to help fitness enthusiasts and gym-goers find and explore a variety of exercises based on muscle groups. Whether you are a beginner or an experienced athlete, this app provides a user-friendly interface to discover new exercises, target specific muscle groups, and create customized workout routines.
+
+![React Fitness Application](https://i.ibb.co/Yt9spGc/image.png)
 
 ## Landing Page
 
