@@ -2,11 +2,9 @@
 
 ![React Fitness Application](https://i.ibb.co/Yt9spGc/image.png)
 
-# Gym App
+# Golds Gym App
 
 The Gym App is a web application designed to help fitness enthusiasts and gym-goers find and explore a variety of exercises based on muscle groups. Whether you are a beginner or an experienced athlete, this app provides a user-friendly interface to discover new exercises, target specific muscle groups, and create customized workout routines.
-
-![Screenshot 2023-07-09 at 6 16 03 AM](https://github.com/Aditya-Kaushik-3/GOLDS_GYM/assets/125375718/92b0aef4-2f10-4416-b2a4-935e82e0a41d)
 
 ## Landing Page
 
@@ -22,13 +20,13 @@ The menu bar includes the following options:
 - **Exercises**: Provides a comprehensive list of exercises categorized by muscle groups. Users can browse through different muscle groups and select specific exercises of interest.
 - **Muscle Groups**: Enables users to directly choose a specific muscle group they want to target. This option presents a selection of exercises solely focused on the chosen muscle group, providing a more specialized and targeted experience.
 
-![Screenshot 2023-07-09 at 6 16 33 AM](https://github.com/Aditya-Kaushik-3/GOLDS_GYM/assets/125375718/67978286-32d9-4bca-8189-9de566eaa939)
+![Screenshot 2023-07-09 at 6 16 20 AM](https://github.com/Aditya-Kaushik-3/GOLDS_GYM/assets/125375718/31e8601e-a129-45c8-8698-e1a1073f98fb)
 
 # Exercise Details
 
 When users select a specific exercise or muscle group, the Gym App provides detailed information about the exercise, including instructions, demonstration videos, equipment requirements, and recommended sets and repetitions. This information empowers users to perform exercises correctly and safely, ensuring optimal results and reducing the risk of injury.
 
-![Screenshot 2023-07-09 at 6 16 20 AM](https://github.com/Aditya-Kaushik-3/GOLDS_GYM/assets/125375718/31e8601e-a129-45c8-8698-e1a1073f98fb)
+![Screenshot 2023-07-09 at 6 16 33 AM](https://github.com/Aditya-Kaushik-3/GOLDS_GYM/assets/125375718/67978286-32d9-4bca-8189-9de566eaa939)
 
 # Customized Workout Routines
 
